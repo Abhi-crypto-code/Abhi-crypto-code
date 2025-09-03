@@ -61,18 +61,16 @@
 
 ---
 
-## 🔥 LeetCode  
+### 🔥 LeetCode  
 <p align="center">
   <a href="https://leetcode.com/u/codeeA824/">
-    <img src="https://leetcard.jacoblin.cool/codeeA824?theme=dark&font=JetBrains%20Mono&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/codeeA824?theme=dark&font=JetBrains%20Mono&ext=contest" height="250"/>
+  </a>
+  <a href="https://leetcode.com/u/codeeA824/">
+    <img src="https://leetcard.jacoblin.cool/codeeA824?theme=dark&ext=heatmap" height="250"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/codeeA824/">
-    <img src="https://leetcard.jacoblin.cool/codeeA824?theme=dark&ext=heatmap" />
-  </a>
-</p>
 
 ---
 
