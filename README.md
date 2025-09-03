@@ -27,11 +27,10 @@
 
 ## 📊 GitHub Stats  
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekGonnade&show_icons=true&theme=tokyonight)  
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-crypto-code&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGonnade&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-crypto-code&layout=compact&theme=tokyonight)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhishekGonnade&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhi-crypto-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
 ---
-
